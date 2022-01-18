@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "269d7a93220794c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5d3a01aa7b80fc3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8ff6b7a3183f4fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a81efb4d52fde5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce22141bb31fcaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1a09099ba7a8cc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#IpAddress",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264
+  },
+  "right": {
+    "id": "5ade26783ba6063a",
+    "type": "split",
+    "children": [
+      {
+        "id": "564eb58c51cf7fe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007088214de8d0c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9999b1457e47e903",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5d3a01aa7b80fc3",
+  "lastOpenFiles": [
+    "Templates/General.md",
+    "ACE Udemy Course/Google Compute/Sustained Use Discounts.md",
+    "ACE Udemy Course/4 - Google Compute.md",
+    "ACE Udemy Course/Compute/Custom Images.md",
+    "ACE Udemy Course/3 - Compute Engine.md",
+    "Practice/Section 3 Quiz.md",
+    "Practice/Practice Dashboard.md",
+    "Labs/Create a Custom Image from a Compute Instance.md",
+    "Labs/Create an Instance Template from the Dashboard.md",
+    "ACE Udemy Course/Compute/Simplifying VM Setup.md"
+  ]
+}
